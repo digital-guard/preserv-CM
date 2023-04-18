@@ -5,3 +5,9 @@ To Cameroon was assigned: in the [ISO&nbsp;3166](https://en.wikipedia.org/wiki/I
 
 ## Territorial organization
 ...
+
+## Organization of this repository
+...
+
+## License
+[License CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
