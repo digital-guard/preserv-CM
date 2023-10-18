@@ -15,11 +15,12 @@ The geocodes of the regions follow the convention registered by ISO 3166-2:CM. I
 
 * The communes are subdivided into districts that are headed by district heads (_chefs de district_).
 
-The urban cadastres are found in the communes.
+The urban cadastres are found in the communes. [CONFIRM?]
 
-The jurisdiction that assigns names to streets and the urban numbering system is the commune.
+The jurisdiction that assigns names to streets and the urban numbering system is the commune. [CONFIRM?]
 
 ## Organization of this repository
+[WIP]
 ...
 
 ## License
