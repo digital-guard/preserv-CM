@@ -20,8 +20,15 @@ The urban cadastres are found in the communes. [CONFIRM?]
 The jurisdiction that assigns names to streets and the urban numbering system is the commune. [CONFIRM?]
 
 ## Organization of this repository
-[WIP]
-...
+In this _git_, only metadata is saved, that is, entity descriptors such as names and geocodes — maps and other data, stored externally because they are very large. The metadata was organized as follows, in the [`/data`](./data) folder:
+
+* [`/data`](./data): original **input** data, that is, metadata provided for the system.
+   * `jurisdictionLevel*.csv`: jurisdictions (at all levels) and their geocodes. The first subdivision is [jurisdictionLevel4.csv](./data/jurisdictionLevel4.csv).
+   * [`donor.csv`](./data/donor.csv): data package donors. Metadata of the institutions that provide official data.
+   * [`donatedPack.csv`](./data/donatedPack.csv): descriptors of the donated files.
+   * *packages* (`_packXX` folders): *hash*  and other externally stored file descriptors, as well as `makefile` and other process descriptors to decompress these files and take them to the database (PostregSQL)...
+
+* [`/data/_out`](./data/_out): system-generated results (**output**), that is, metadata created from the algorithms and statistics applied to the `_pack` data.
 
 ## License
 [License CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
