@@ -1,0 +1,11 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+2750694,120,1,Adamaoua,CM,AD,351514,adamaoua,CM-AD,,"{""area_sr"": 5.23536, ""area_km2"": 63992, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 253, ""side_estim_deg"": 2.2881, ""elongation_factor"": 2.14}"
+2750789,120,2,Centre,CM,CE,739951,centre,CM-CE,,"{""area_sr"": 5.60124, ""area_km2"": 68718, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 262.1, ""side_estim_deg"": 2.3667, ""elongation_factor"": 2.19}"
+2750738,120,3,Est,CM,ES,845168,est,CM-ES,,"{""area_sr"": 8.87455, ""area_km2"": 108984, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 330.1, ""side_estim_deg"": 2.979, ""elongation_factor"": 2.07}"
+2749663,120,4,Extrême-Nord,CM,EN,823976,extreme.nord,CM-EN,,"{""area_sr"": 2.82623, ""area_km2"": 34153, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 184.8, ""side_estim_deg"": 1.6811, ""elongation_factor"": 2.83}"
+2750851,120,5,Littoral,CM,LT,845172,littoral,CM-LT,,"{""area_sr"": 1.64558, ""area_km2"": 20201, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 142.1, ""side_estim_deg"": 1.2828, ""elongation_factor"": 2.85}"
+2750662,120,7,Nord,CM,NO,502341,nord,CM-NO,,"{""area_sr"": 5.43245, ""area_km2"": 66150, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 257.2, ""side_estim_deg"": 2.3308, ""elongation_factor"": 2}"
+2750874,120,6,Nord-Ouest,CM,NW,823946,nord.ouest,CM-NW,,"{""area_sr"": 1.42454, ""area_km2"": 17429, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 132, ""side_estim_deg"": 1.1935, ""elongation_factor"": 1.85}"
+6312404,120,8,Ouest,CM,OU,165784,ouest,CM-OU,,"{""area_sr"": 1.13773, ""area_km2"": 13941, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 118.1, ""side_estim_deg"": 1.0666, ""elongation_factor"": 2.28}"
+2750833,120,10,Sud,CM,SU,857122,sud,CM-SU,,"{""area_sr"": 3.84195, ""area_km2"": 47237, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 217.3, ""side_estim_deg"": 1.9601, ""elongation_factor"": 2.4}"
+2750875,120,9,Sud-Ouest,CM,SW,607499,sud.ouest,CM-SW,,"{""area_sr"": 2.02045, ""area_km2"": 24769, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 157.4, ""side_estim_deg"": 1.4214, ""elongation_factor"": 2.57}"
